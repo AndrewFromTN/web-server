@@ -1,7 +1,7 @@
 # Web Server
 
 ## What is this?
-This is a rudimentary webserver I built for a class.
+This is a rudimentary webserver I built for a class. It's a bit of c and C++ mixed together. I originally wanted to keep it purely in c so that is how I started writing it, but class requirements necessitated C++ so it got a bit mixed.
 
 ### To Build:
 
